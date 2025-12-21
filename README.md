@@ -3,14 +3,23 @@ hoping to figure out some secrets about online shopping (electronics-focused)
 
 
 Week 1-2: Scraping + Data Collection
-- Learning requests and BeautifulSoup to scrape Best Buy, Amazon, Walmart, Target
+- Learning requests and BeautifulSoup to scrape newegg (I unfortunately got blocked on bigger sites)
 - Goals: Scrape 50-100 products daily for 2 weeks
 - Store in SQL/postgreSQL database
+Features to collect:
+- Product name, brand, model
+- Current price, original price (if on sale)
+- Rating, number of reviews
+- In stock (yes/no)
+- Retailer name
+- Timestamp
+- Product URL
 
 Week 3: EDA + Visualization
 - Basic pandas and matplotlib work
 - Going to try to do some feature engineering for the models I'm going to make later
 - Goals: Create visualizations/find answers to these questions
+Questions:
 - Which retailer has lowest average prices?
 - How often do prices change?
 - What's the price range for each product category?
