@@ -6,6 +6,7 @@ Week 1-2: Scraping + Data Collection
 - Learning requests and BeautifulSoup to scrape newegg (I unfortunately got blocked on bigger sites)
 - Goals: Scrape 50-100 products daily for 2 weeks
 - Store in SQL/postgreSQL database
+
 Features to collect:
 - Product name, brand, model
 - Current price, original price (if on sale)
@@ -18,7 +19,8 @@ Features to collect:
 Week 3: EDA + Visualization
 - Basic pandas and matplotlib work
 - Going to try to do some feature engineering for the models I'm going to make later
-- Goals: Create visualizations/find answers to these questions
+- Goals: Create visualizations/find answers to exploratory questions
+
 Questions:
 - Which retailer has lowest average prices?
 - How often do prices change?
